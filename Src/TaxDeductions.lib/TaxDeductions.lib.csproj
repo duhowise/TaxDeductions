@@ -42,6 +42,7 @@
   <ItemGroup>
     <Compile Include="Tax.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TaxTable.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
